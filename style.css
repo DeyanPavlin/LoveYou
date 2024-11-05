@@ -1,0 +1,25 @@
+body{
+    background-color: #FFE1E2;
+}
+
+.text{
+    position: relative;
+    text-align: center;
+}
+
+h2{
+    font-size: 3.5rem;
+    color: #FE172C;
+}
+
+h1{
+    font-size: 5rem;
+    color: #FE172C;
+}
+
+iframe {
+    position: fixed;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
